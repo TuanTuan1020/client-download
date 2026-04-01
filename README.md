@@ -1,9 +1,9 @@
 # 客户端下载
 
 ## 📱 Android
-- ClashMeta v2.11.24
-  👉 ARMv8|点此下载 (https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-arm64-v8a-release.apk)
-  👉 ARMv7|点此下载 (https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-armeabi-v7a-release.apk)
+- ClashMeta v2.11.25
+  👉 ARMv8|点此下载 (https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.25/cmfa-2.11.25-meta-arm64-v8a-release.apk)
+  👉 ARMv7|点此下载 (https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.25/cmfa-2.11.25-meta-armeabi-v7a-release.apk)
 
 - FlClash v0.8.92
   👉 ARMv8|点此下载 (https://github.com/chen08209/FlClash/releases/download/v0.8.92/FlClash-0.8.92-android-arm64-v8a.apk)
