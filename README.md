@@ -12,8 +12,8 @@
 ---
 
 ## 💻 Windows
-- Clash Verge v2.5.4
-  👉 点此下载 (https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.4/Clash.Verge_2.5.4_arm64-setup.exe)
+- Clash Verge v2.5.2
+  👉 点此下载 (https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_arm64-setup.exe)
 
 - FlClash v0.8.98
   👉 点此下载 (https://github.com/chen08209/FlClash/releases/download/v0.8.98/FlClash-0.8.98-windows-amd64-setup.exe)
@@ -24,9 +24,9 @@
 ---
 
 ## 🍎 MacOS
-- Clash Verge v2.5.4
-  👉 Apple M芯片|点此下载 (https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.4/Clash.Verge-2.5.4-1.aarch64.rpm)
-  👉 Intel芯片|点此下载 (https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.4/Clash.Verge_2.5.4_x64.dmg)
+- Clash Verge v2.5.2
+  👉 Apple M芯片|点此下载 (https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge-2.5.2-1.aarch64.rpm)
+  👉 Intel芯片|点此下载 (https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.2/Clash.Verge_2.5.2_x64.dmg)
 
 - FlClash v0.8.98
   👉 Apple M芯片|点此下载 (https://github.com/chen08209/FlClash/releases/download/v0.8.98/FlClash-0.8.98-macos-arm64.dmg)
