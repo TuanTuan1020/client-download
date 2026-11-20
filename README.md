@@ -16,7 +16,7 @@
   👉 点此下载 (https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_arm64-setup.exe)
 
 - FlClash v0.9.4
-  👉 点此下载 (https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-windows-amd64-setup.exe)
+  👉 点此下载 (https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-windows-amd64-portable.zip)
 
 - Clash Party v2.0.5
   👉 点此下载 (https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.5/clash-party-windows-2.0.5-arm64-portable.7z)
@@ -29,5 +29,5 @@
   👉 Intel芯片|点此下载 (https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.10/Clash.Verge_2.5.10_x64.dmg)
 
 - FlClash v0.9.4
-  👉 Apple M芯片|点此下载 (https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-dev-0.9.4-macos-arm64.dmg)
-  👉 Intel芯片|点此下载 (https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-dev-0.9.4-macos-amd64.dmg)
+  👉 Apple M芯片|点此下载 (https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-macos-arm64.dmg)
+  👉 Intel芯片|点此下载 (https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-macos-amd64.dmg)
