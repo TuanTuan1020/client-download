@@ -18,8 +18,8 @@
 - FlClash v0.9.4
   👉 点此下载 (https://github.com/chen08209/FlClash/releases/download/v0.9.4/FlClash-0.9.4-windows-amd64-setup.exe)
 
-- Clash Party v2.0.4
-  👉 点此下载 (https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-windows-2.0.4-arm64-portable.7z)
+- Clash Party v2.0.5
+  👉 点此下载 (https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.5/clash-party-windows-2.0.5-arm64-portable.7z)
 
 ---
 
